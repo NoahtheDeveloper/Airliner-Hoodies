@@ -23,6 +23,6 @@
 > > **Credits:** OpticsXS & Noah Brahim
 > 
 > > **Pictures:**
+> ![](https://cdn.discordapp.com/attachments/743967397341298769/801934310566395954/unknown.png)
 > 
-> 
-> 
+> ![](https://cdn.discordapp.com/attachments/743967397341298769/801933932466929765/unknown.png)
