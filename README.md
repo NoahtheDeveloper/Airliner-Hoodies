@@ -3,15 +3,21 @@
 > 
 > 
 > **Airline Hoodie List:**
-> - KLM HOODIE
-> - DELTA HOODIE
-> - UNITED HOODIE 
-> - SOUTHWEST HOODIE 
-> - AMERICAN HOODIE 
-> - SPIRIT HOODIE
-> - ARMY HOODIE
+-KLM 
+-AMERICAN
+-USAF Hoodie
+-CANADA
+> - ARMY
+> - SPIRIT 
+> - ARMY 
 > - MARINE CORPS HOODIE
 > - USAF HOODIE
+> 
+> 
+> 
+> Shirt overlay / Jackets: Number: 258
+> 
+> Hats / Helmets: Number: 132
 > 
 > 
 > > **Credits:** OpticsXS & Noah Brahim
