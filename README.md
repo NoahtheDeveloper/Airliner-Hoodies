@@ -14,7 +14,7 @@
 > - USAF HOODIE
 > 
 > 
-> **Credits:** OpticsXS & Noah Brahim
+> > **Credits:** OpticsXS & Noah Brahim
 > 
 > > **Pictures:**
 > 
